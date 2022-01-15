@@ -11,3 +11,5 @@ dist/
 ALL_PHOTOS/
 output/
 *.log
+*/resources
+*/out
